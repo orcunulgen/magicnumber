@@ -1,8 +1,8 @@
 package com.bilyoner.magicnumber.service;
 
-import com.bilyoner.magicnumber.repository.impl.MagicNumberCustomRepositoryImpl;
 import com.bilyoner.magicnumber.dto.MagicNumber;
 import com.bilyoner.magicnumber.repository.MagicNumberRepository;
+import com.bilyoner.magicnumber.repository.impl.MagicNumberCustomRepositoryImpl;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Sort;
